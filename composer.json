@@ -1,5 +1,5 @@
 {
-    "name": "happyproff/Math",
+    "name": "happyproff/math",
     "description": "Simple Math library. Actually this is workflow test (travis, phpcs, phpunit, etc).",
     "license": "MIT",
     "homepage": "https://github.com/happyproff/Math",
